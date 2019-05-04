@@ -1,0 +1,7 @@
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\TheHeroFactory\TheHeroFactory\bin\Debug\TheHeroFactory.exe.config
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\TheHeroFactory\TheHeroFactory\bin\Debug\TheHeroFactory.exe
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\TheHeroFactory\TheHeroFactory\bin\Debug\TheHeroFactory.pdb
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\TheHeroFactory\TheHeroFactory\obj\Debug\TheHeroFactory.csprojAssemblyReference.cache
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\TheHeroFactory\TheHeroFactory\obj\Debug\TheHeroFactory.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\TheHeroFactory\TheHeroFactory\obj\Debug\TheHeroFactory.exe
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\TheHeroFactory\TheHeroFactory\obj\Debug\TheHeroFactory.pdb

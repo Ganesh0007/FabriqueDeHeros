@@ -1,0 +1,7 @@
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\Cook\Cook\obj\Debug\Cook.csprojAssemblyReference.cache
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\Cook\Cook\obj\Debug\Cook.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\Cook\Cook\bin\Debug\Cook.exe.config
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\Cook\Cook\bin\Debug\Cook.exe
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\Cook\Cook\bin\Debug\Cook.pdb
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\Cook\Cook\obj\Debug\Cook.exe
+C:\Users\Ganesh\Desktop\B2-Ganesh-RADJE\Cook\Cook\obj\Debug\Cook.pdb

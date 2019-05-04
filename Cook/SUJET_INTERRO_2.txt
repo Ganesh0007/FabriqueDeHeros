@@ -1,0 +1,27 @@
+Une poêle a un volume, une marque ( Tefal, Pouce, NoName ), et un ID unique à cette poele.
+On peut y ajouter des aliments, et elle peut cuire.
+
+>> On va faire abstraction des plaques de cuisson etc. On dit que la poêle chauffe toute seule.
+
+Si dans la poêle il y a : 1 oeuf, 1 farine, 1 lait et 1 sucre => on obtient une crêpe.
+Si dans la poêle il y a : 2 oeufs et 1 lait => on obtient une omelette.
+Si dans la poêle il y a : 1 lait, 1 sucre => on obtient un lait chaud sucré.
+
+>> Les quantités doivent être exactes pour que la recette réussisse. Les ingrédients sont supprimés après cuisson.
+>> Le résultat de la recette est simplement un affichage "On obtient une crêpe!".
+
+Le lait, les oeufs, le sucre et la farine sont des ingrédients. Un ingrédient a un nom et une quantité.
+
+>> On fera abstraction des unités ( litre, grammes, etc ).
+
+Avant d'utiliser les ingrédients ou la poêle, on doit les sortir du placard. Après l'utilisation, on doit les ranger.
+
+>> On fait abstraction du placard.
+>> Sortir ou ranger une poêle ou un ingrédient affiche dans la console "x est sorti/rangé" .
+----------------------------------------------
+CONSIGNES
+----------------------------------------------
+Nomenclature à respecter, Code en Anglais obligatoire.
+Rendu avant 13h à etienne.champagne.ec@gmail.com >>> OBJET : Interro C# 2 <<<
+>>> PENSEZ A SUPPRIMER LES .EXE DE VOTRE RENDU SINON LE MAIL NE PASSE PAS <<<
+Code qui ne compile pas = note divisée par 2.
